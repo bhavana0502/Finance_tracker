@@ -57,6 +57,6 @@ finance-tracker/
 
 8. LinkedIn / Demo
 ## 📢 Demo Video
-[Click here to watch the demo video](https://www.linkedin.com/)
+[Click here to watch the demo video](  https://www.linkedin.com/posts/bhavana-s-8b973026b_bharatintern-python-tkinter-activity-7361424922822266881-y1fD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIjPA0B0sjATyYTVZGnj5dNZTKw3jdyLLA )
 
 
